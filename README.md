@@ -1,1 +1,1 @@
-# stream
+# A simple stream computing system
